@@ -1,6 +1,6 @@
 ---
 title: "Linking olivine texture parameters with anisotropic viscous behavior"
-date: 2026-06-01
+date: 2023-06-01
 collection: publications
 category: manuscript
 permalink: /publication/kiraly_etal_2026
