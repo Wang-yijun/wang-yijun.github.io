@@ -1,8 +1,8 @@
 ---
 title: "Linking olivine texture parameters with anisotropic viscous behavior"
-date: 2023-06-01
+date: 2026-06-01
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/kiraly_etal_2026
 venue: 'Geodynamica'
 citation: 'Király, Á., Wang, Y., Conrad, C. P., Hansen, L. N., Mather, B. (2026)'
